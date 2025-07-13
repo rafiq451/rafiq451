@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="400" src="https://portfolio-rafiq.vercel.app/assets/benner-b1oeGIng.png"  />
+  <img height="400" src="https://portfolio-rafiq.vercel.app/assets/benner2-C5iZO3F8.png"  />
 </div>
 
 ###
